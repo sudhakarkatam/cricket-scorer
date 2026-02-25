@@ -1,0 +1,25 @@
+const Colors = {
+    background: '#0F1118',
+    surface: '#1A1D27',
+    surfaceLight: '#242836',
+    card: '#1E2230',
+    border: '#2A2E3D',
+    primary: '#10B981',
+    primaryDark: '#059669',
+    primaryLight: '#34D399',
+    accent: '#F59E0B',
+    danger: '#EF4444',
+    dangerLight: '#FCA5A5',
+    white: '#FFFFFF',
+    textPrimary: '#F1F5F9',
+    textSecondary: '#94A3B8',
+    textMuted: '#64748B',
+    dot: '#6366F1',
+    wide: '#3B82F6',
+    wicket: '#EF4444',
+    extras: '#F59E0B',
+    four: '#10B981',
+    six: '#8B5CF6',
+};
+
+export default Colors;
