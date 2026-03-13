@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "CricScorer",
+    "slug": "cricscorer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -20,7 +20,8 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.sudhakar77.myapp"
+      "package": "com.sudhakar77.cricscorer",
+      "versionCode": 1
     },
     "web": {
       "output": "static",
